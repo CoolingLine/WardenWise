@@ -1,5 +1,5 @@
-AntiCheat.exe<---|--->a7675948460db0ccb1d53982302957f6
-AnticheatDLL.dll<---|--->99075d5610c7d8a1130f42acfcb85df6
+AntiCheat.exe<---|--->56d61cf826d4af72846285b38b119489
+AnticheatDLL.dll<---|--->b3a09204b844ef265d8c4a685e9d4b7e
 D3Dcompiler_47.dll<---|--->b0ae3aa9dd1ebd60bdf51cb94834cd04
 opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b
 Qt6Core.dll<---|--->aee45713899ea80f67227018fa29aa17
@@ -11,6 +11,7 @@ Qt6WebSockets.dll<---|--->da9444b0bfa6a4b534cc1469e53119ba
 Qt6Widgets.dll<---|--->be78cebc4ec32277ad4048a77e1ca68e
 steam_api64.dll<---|--->543515a345cc88cb93413953f06f34a4
 steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6
+WardenWise.dll<---|--->d715f752b2951eab8f4e2fc12589f018
 generic/qtuiotouchplugin.dll<---|--->ef4c120b7d8e63f05b8338d95da6b49c
 iconengines/qsvgicon.dll<---|--->cf5e4bbe281b7349aef6b16162bd577a
 imageformats/qgif.dll<---|--->430583e6c1d29b8a83c5e5d6e19cbc13
