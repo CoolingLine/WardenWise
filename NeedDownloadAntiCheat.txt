@@ -1,5 +1,5 @@
-AntiCheat.exe<---|--->6150cd424632d010d81cdd7f9344eb92
-AnticheatDLL.dll<---|--->891aa38ec2d262fb2d0a758de8e02d43
+AntiCheat.exe<---|--->44ae30442447275c20127350b40a66d4
+AnticheatDLL.dll<---|--->e03c41fe975550f7dd6d60a6efeb6484
 D3Dcompiler_47.dll<---|--->b0ae3aa9dd1ebd60bdf51cb94834cd04
 opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b
 Qt6Core.dll<---|--->aee45713899ea80f67227018fa29aa17
