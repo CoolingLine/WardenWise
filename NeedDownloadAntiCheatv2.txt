@@ -1,5 +1,4 @@
 ..\Rust.exe<---|--->a8accc230ecf1195c3ab01eddca81754<---|--->https://bg1.wardenwise.com/Files/anticheat/Rust.exe
-..\RustClient.exe<---|--->d41d8cd98f00b204e9800998ecf8427e<---|--->https://bg1.wardenwise.com/Files/anticheat/RustClient.exe
 ..\EasyAntiCheat\EasyAntiCheat_Setup.exe<---|--->01a0b99c54a867fd69800c6926772796<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_Setup.exe
 ..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->208e3264c2ed45524d4465bb7e0e39d1<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
 ..\EasyAntiCheat\EasyAntiCheat_x86.dll<---|--->a2ff7a3d384f5280f828d6707ec4c016<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x86.dll
