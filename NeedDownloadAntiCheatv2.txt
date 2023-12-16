@@ -1,0 +1,5 @@
+..\WardenWise\AntiCheat.exe<---|--->24059545580e9564a05183470855c5d9<---|--->https://raw.githubusercontent.com/CoolingLine/WardenWise/main/anticheat/AntiCheat.exe
+..\WardenWise\AnticheatDLL.dll<---|--->1ee8226460e5db8a655d24404ad1b344<---|--->https://raw.githubusercontent.com/CoolingLine/WardenWise/main/anticheat/AnticheatDLL.dll
+..\WardenWise\tls\qschannelbackend.dll<---|--->c57fa6d4358efa0f03cc6c82f31eeb66<---|--->https://raw.githubusercontent.com/CoolingLine/WardenWise/main/anticheat/tls/qschannelbackend.dll
+..\WardenWise\styles\css\style.qss<---|--->333c8097e9b007ef380d15e89c91a6cf<---|--->https://raw.githubusercontent.com/CoolingLine/WardenWise/main/anticheat/styles/css/style.qss
+..\steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6<---|--->https://raw.githubusercontent.com/CoolingLine/WardenWise/main/anticheat/steam_appid.txt
