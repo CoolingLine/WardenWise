@@ -1,7 +1,7 @@
 ..\Rust.exe<---|--->a8accc230ecf1195c3ab01eddca81754<---|--->https://bg1.wardenwise.com/Files/anticheat/Rust.exe
 ..\EasyAntiCheat\EasyAntiCheat_Setup.exe<---|--->01a0b99c54a867fd69800c6926772796<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_Setup.exe
-..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->208e3264c2ed45524d4465bb7e0e39d1<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
-..\EasyAntiCheat\EasyAntiCheat_x86.dll<---|--->a2ff7a3d384f5280f828d6707ec4c016<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x86.dll
+..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->aa8b8a7ce39382b3f227d9c80ffc769f<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
+..\EasyAntiCheat\EasyAntiCheat_x86.dll<---|--->eeee34ec41c72fbc33ef0362f01b62b1<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x86.dll
 ..\WardenWise\license.txt<---|--->35f0d098426cc172e736a7ece4371bba<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/license.txt
 ..\WardenWise\AntiCheat.exe<---|--->c1b96a3b49988a00ecb5dc8b13d7862e<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\Qt6Network.dll<---|--->4e61ce04aa4eaa7bec3ffdff879ba41e<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/Qt6Network.dll
@@ -36,10 +36,10 @@
 ..\EasyAntiCheat\Licenses\Licenses.txt<---|--->a90c1cfd2c53e1cd31060eccf0594f30<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/Licenses.txt
 ..\EasyAntiCheat\Licenses\CCO-1.0.txt<---|--->b259769e79fb258a5242b2c6be61aa32<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/CCO-1.0.txt
 ..\EasyAntiCheat\Licenses\MIT.txt<---|--->454c717340dda8adbbedc34f39fa7d40<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/MIT.txt
-..\EasyAntiCheat\Licenses\Apache-2.0.txt<---|--->ea6f9d08c89770003a5219824454c873<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/Apache-2.0.txt
+..\EasyAntiCheat\Licenses\Apache-2.0.txt<---|--->d273d63619c9aeaf15cdaf76422c4f87<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/Apache-2.0.txt
 ..\EasyAntiCheat\Licenses\LGPL-2.1.txt<---|--->b0d181292c99cf9bb2ae9166dd3a0239<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/LGPL-2.1.txt
 ..\EasyAntiCheat\Launcher\SplashScreen.png<---|--->4f13a92933c44538dcac9a3b2a94a3fb<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/SplashScreen.png
-..\EasyAntiCheat\Launcher\Settings.json<---|--->6e3700a093c52c22653e92fcb41a1931<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings.json
+..\EasyAntiCheat\Launcher\Settings.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings.json
 ..\EasyAntiCheat\Launcher\Settings64.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings64.json
 ..\EasyAntiCheat\Certificates\game.cer<---|--->16e0d26a0ca987eda3a47e90307066b5<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/Certificates/game.cer
 ..\WardenWise\styles\qwindowsvistastyle.dll<---|--->0e5aa2480e4a6a1222e9576185e65d1f<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/styles/qwindowsvistastyle.dll
