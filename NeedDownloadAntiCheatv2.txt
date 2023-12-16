@@ -15,7 +15,6 @@
 ..\WardenWise\Qt6Widgets.dll<---|--->be78cebc4ec32277ad4048a77e1ca68e<---|--->https://bg1.wardenwise.com/files/anticheat/WardenWise/Qt6Widgets.dll
 ..\WardenWise\steam_api64.dll<---|--->543515a345cc88cb93413953f06f34a4<---|--->https://bg1.wardenwise.com/files/anticheat/WardenWise/steam_api64.dll
 ..\WardenWise\steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6<---|--->https://bg1.wardenwise.com/files/anticheat/WardenWise/steam_appid.txt
-..\WardenWise\WardenWise.rar<---|--->65838230ab21c1ee8dd47cbdeac75993<---|--->https://bg1.wardenwise.com/files/anticheat/WardenWise/WardenWise.rar
 ..\EasyAntiCheat\Certificates\game.cer<---|--->16e0d26a0ca987eda3a47e90307066b5<---|--->https://bg1.wardenwise.com/files/anticheat/EasyAntiCheat/Certificates/game.cer
 ..\EasyAntiCheat\Launcher\Settings.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://bg1.wardenwise.com/files/anticheat/EasyAntiCheat/Launcher/Settings.json
 ..\EasyAntiCheat\Launcher\Settings64.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://bg1.wardenwise.com/files/anticheat/EasyAntiCheat/Launcher/Settings64.json
