@@ -3,7 +3,7 @@
 ..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->aa8b8a7ce39382b3f227d9c80ffc769f<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
 ..\EasyAntiCheat\EasyAntiCheat_x86.dll<---|--->eeee34ec41c72fbc33ef0362f01b62b1<---|--->https://bg1.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x86.dll
 ..\WardenWise\license.txt<---|--->35f0d098426cc172e736a7ece4371bba<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/license.txt
-..\WardenWise\AntiCheat.exe<---|--->c8692761fef87e17ca99582bfd09570d<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->9fef9318838fea98ab781150fd094ba6<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\Qt6Network.dll<---|--->4e61ce04aa4eaa7bec3ffdff879ba41e<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/Qt6Network.dll
 ..\WardenWise\Qt6Gui.dll<---|--->de24a8540c1f76bb22e1e759077e965d<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/Qt6Gui.dll
 ..\WardenWise\steam_api64.dll<---|--->543515a345cc88cb93413953f06f34a4<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/steam_api64.dll
