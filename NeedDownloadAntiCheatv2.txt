@@ -60,5 +60,4 @@
 ..\WardenWise\imageformats\qico.dll<---|--->244b722b7bf299b9afbdc6e51628e010<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/imageformats/qico.dll
 ..\WardenWise\platforms\qwindows.dll<---|--->a734e2a35182e1442d0e2927584ef6ee<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/platforms/qwindows.dll
 ..\WardenWise\iconengines\qsvgicon.dll<---|--->cf5e4bbe281b7349aef6b16162bd577a<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/iconengines/qsvgicon.dll
-..\RustClient_Data\Plugins\x86_64\CChromaEditorLibrary64._dll<---|--->19d59b80e575c1701fb0651c5a398131<---|--->https://bg1.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/CChromaEditorLibrary64._dll
 ..\WardenWise\styles\css\style.qss<---|--->65ea312bf0d16c7c11126f581cbdd378<---|--->https://bg1.wardenwise.com/Files/anticheat/WardenWise/styles/css/style.qss
