@@ -34,7 +34,6 @@
 ..\WardenWise\generic\qtuiotouchplugin.dll<---|--->ef4c120b7d8e63f05b8338d95da6b49c<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/generic/qtuiotouchplugin.dll
 ..\WardenWise\styles\qwindowsvistastyle.dll<---|--->0e5aa2480e4a6a1222e9576185e65d1f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/styles/qwindowsvistastyle.dll
 ..\WardenWise\networkinformation\qnetworklistmanager.dll<---|--->3a11df320002727c17d88d714865d4a2<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/networkinformation/qnetworklistmanager.dll
-..\EasyAntiCheat\Certificates\game.cer<---|--->16e0d26a0ca987eda3a47e90307066b5<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Certificates/game.cer
 ..\EasyAntiCheat\Localization\th_th.cfg<---|--->d74c7a1a7e8c2b72563a290c98e6c10a<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Localization/th_th.cfg
 ..\EasyAntiCheat\Localization\es_es.cfg<---|--->20eb1be756b5a3a745faf8ce60331c6e<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Localization/es_es.cfg
 ..\EasyAntiCheat\Localization\ru_ru.cfg<---|--->31868fc2ab83e188759be6607a47f4b3<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Localization/ru_ru.cfg
@@ -56,9 +55,4 @@
 ..\EasyAntiCheat\Launcher\SplashScreen.png<---|--->4f13a92933c44538dcac9a3b2a94a3fb<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/SplashScreen.png
 ..\EasyAntiCheat\Launcher\Settings64.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings64.json
 ..\EasyAntiCheat\Launcher\Settings.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings.json
-..\EasyAntiCheat\Licenses\Apache-2.0.txt<---|--->d273d63619c9aeaf15cdaf76422c4f87<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/Apache-2.0.txt
-..\EasyAntiCheat\Licenses\Licenses.txt<---|--->a90c1cfd2c53e1cd31060eccf0594f30<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/Licenses.txt
-..\EasyAntiCheat\Licenses\CCO-1.0.txt<---|--->b259769e79fb258a5242b2c6be61aa32<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/CCO-1.0.txt
-..\EasyAntiCheat\Licenses\MIT.txt<---|--->454c717340dda8adbbedc34f39fa7d40<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/MIT.txt
-..\EasyAntiCheat\Licenses\LGPL-2.1.txt<---|--->b0d181292c99cf9bb2ae9166dd3a0239<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Licenses/LGPL-2.1.txt
 ..\WardenWise\styles\css\style.qss<---|--->65ea312bf0d16c7c11126f581cbdd378<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/styles/css/style.qss
