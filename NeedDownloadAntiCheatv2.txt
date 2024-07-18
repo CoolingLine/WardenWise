@@ -1,6 +1,6 @@
 ..\Rust.exe<---|--->a8accc230ecf1195c3ab01eddca81754<---|--->https://cz.wardenwise.com/Files/anticheat/Rust.exe
 ..\WardenWise\Qt6Svg.dll<---|--->49655abbf0c79280ced9ac502969e95e<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Svg.dll
-..\WardenWise\AntiCheat.exe<---|--->29d947a82977263a3008d8343b52dada<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->6185883c0ea69b380aa3a0f700cb7c8c<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\discord_game_sdk.dll<---|--->4402cd4891c256ee40046c6092afdcbf<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/discord_game_sdk.dll
 ..\WardenWise\steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/steam_appid.txt
 ..\WardenWise\opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/opengl32sw.dll
