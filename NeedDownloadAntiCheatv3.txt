@@ -1,6 +1,6 @@
 ..\Rust.exe<---|--->a8accc230ecf1195c3ab01eddca81754<---|--->https://cz.wardenwise.com/Files/anticheat/Rust.exe
 ..\WardenWise\Qt6Svg.dll<---|--->49655abbf0c79280ced9ac502969e95e<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Svg.dll
-..\WardenWise\AntiCheat.exe<---|--->680757b50ed6c8a5b079ee1fb149f5ea<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->e5542f136a26ea96796e5c843557a82a<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\discord_game_sdk.dll<---|--->4402cd4891c256ee40046c6092afdcbf<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/discord_game_sdk.dll
 ..\WardenWise\steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/steam_appid.txt
 ..\WardenWise\opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/opengl32sw.dll
@@ -10,7 +10,7 @@
 ..\WardenWise\Qt6Widgets.dll<---|--->e87d59592b93387e1d19aeb572021cf7<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Widgets.dll
 ..\WardenWise\Qt6Pdf.dll<---|--->0e319e6a225bee1bed171ed324ce74ae<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Pdf.dll
 ..\WardenWise\steam_api64.dll<---|--->543515a345cc88cb93413953f06f34a4<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/steam_api64.dll
-..\WardenWise\license.txt<---|--->35f0d098426cc172e736a7ece4371bba<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/license.txt
+..\WardenWise\license.txt<---|--->5511b93301babc842e3aeb63db96416f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/license.txt
 ..\WardenWise\Qt6WebSockets.dll<---|--->a8b24c9518473f62d3bb2bd0a33620fa<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6WebSockets.dll
 ..\WardenWise\D3Dcompiler_47.dll<---|--->b0ae3aa9dd1ebd60bdf51cb94834cd04<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/D3Dcompiler_47.dll
 ..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->aa8b8a7ce39382b3f227d9c80ffc769f<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
