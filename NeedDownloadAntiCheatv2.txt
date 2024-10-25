@@ -8,7 +8,7 @@
 ..\WardenWise\opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/opengl32sw.dll
 ..\WardenWise\Qt6Network.dll<---|--->3b8f82a572801b883c31156ba5bce4fc<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Network.dll
 ..\WardenWise\Qt6Widgets.dll<---|--->e87d59592b93387e1d19aeb572021cf7<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Widgets.dll
-..\WardenWise\AntiCheat.exe<---|--->11381c921c39d582ab337a2397b5f25e<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->febf6e3c8176ee5a5a33ad9e24a2f01f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\license.txt<---|--->5511b93301babc842e3aeb63db96416f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/license.txt
 ..\WardenWise\D3Dcompiler_47.dll<---|--->b0ae3aa9dd1ebd60bdf51cb94834cd04<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/D3Dcompiler_47.dll
 ..\WardenWise\discord_game_sdk.dll<---|--->4402cd4891c256ee40046c6092afdcbf<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/discord_game_sdk.dll
