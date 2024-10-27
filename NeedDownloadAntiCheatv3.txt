@@ -86,5 +86,5 @@
 ..\WardenWise\translations\qt_ar.qm<---|--->a7e4d0ba0fc5df07f62cc66ec9878979<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_ar.qm
 ..\WardenWise\translations\qt_fa.qm<---|--->b4222dd74c92c888a7c25dc42e989d83<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_fa.qm
 ..\WardenWise\translations\qt_gd.qm<---|--->eb1fb93b0be51c2ad78fc7ba2f8b9f42<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_gd.qm
-..\RustClient_Data\Plugins\x86_64\steam_api64.dll<---|--->fbabd8a770b6e0f2ecd1b9b56e838941<---|--->https://cz.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/steam_api64.dll
+..\RustClient_Data\Plugins\x86_64\steam_api64.dll<---|--->398b44a3905737e40d76a13cdbb7ded7<---|--->https://cz.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/steam_api64.dll
 ..\WardenWise\styles\css\style.qss<---|--->65ea312bf0d16c7c11126f581cbdd378<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/styles/css/style.qss
