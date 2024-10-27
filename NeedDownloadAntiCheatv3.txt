@@ -8,7 +8,7 @@
 ..\WardenWise\opengl32sw.dll<---|--->83bbecf92fb68795a620b395998b131b<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/opengl32sw.dll
 ..\WardenWise\Qt6Network.dll<---|--->3b8f82a572801b883c31156ba5bce4fc<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Network.dll
 ..\WardenWise\Qt6Widgets.dll<---|--->e87d59592b93387e1d19aeb572021cf7<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/Qt6Widgets.dll
-..\WardenWise\AntiCheat.exe<---|--->67e9ded3851c6f9c6a7c9208017526ef<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->716dc168154ec535106d0228983065aa<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\license.txt<---|--->5511b93301babc842e3aeb63db96416f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/license.txt
 ..\WardenWise\D3Dcompiler_47.dll<---|--->b0ae3aa9dd1ebd60bdf51cb94834cd04<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/D3Dcompiler_47.dll
 ..\WardenWise\discord_game_sdk.dll<---|--->4402cd4891c256ee40046c6092afdcbf<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/discord_game_sdk.dll
@@ -86,5 +86,5 @@
 ..\WardenWise\translations\qt_ar.qm<---|--->a7e4d0ba0fc5df07f62cc66ec9878979<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_ar.qm
 ..\WardenWise\translations\qt_fa.qm<---|--->b4222dd74c92c888a7c25dc42e989d83<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_fa.qm
 ..\WardenWise\translations\qt_gd.qm<---|--->eb1fb93b0be51c2ad78fc7ba2f8b9f42<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/translations/qt_gd.qm
-..\RustClient_Data\Plugins\x86_64\steam_api64.dll<---|--->398b44a3905737e40d76a13cdbb7ded7<---|--->https://cz.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/steam_api64.dll
+..\RustClient_Data\Plugins\x86_64\steam_api64.dll<---|--->c4e353a86a2cd43717bc309e138e263c<---|--->https://cz.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/steam_api64.dll
 ..\WardenWise\styles\css\style.qss<---|--->65ea312bf0d16c7c11126f581cbdd378<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/styles/css/style.qss
