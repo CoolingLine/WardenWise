@@ -3,7 +3,7 @@
 ..\EasyAntiCheat\EasyAntiCheat_x64.dll<---|--->aa8b8a7ce39382b3f227d9c80ffc769f<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_x64.dll
 ..\EasyAntiCheat\EasyAntiCheat_Setup.exe<---|--->01a0b99c54a867fd69800c6926772796<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/EasyAntiCheat_Setup.exe
 ..\PinPoint\PinPoint.exe<---|--->05124da558569c8f21ba506dc6ad346a<---|--->https://cz.wardenwise.com/Files/anticheat/PinPoint/PinPoint.exe
-..\WardenWise\AntiCheat.exe<---|--->9492203bc453a9542c6d40c9ce7e3550<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
+..\WardenWise\AntiCheat.exe<---|--->8afce34ed8c34a5aa9cceff35fb2c612<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/AntiCheat.exe
 ..\WardenWise\license.txt<---|--->5511b93301babc842e3aeb63db96416f<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/license.txt
 ..\WardenWise\steam_api64.dll<---|--->543515a345cc88cb93413953f06f34a4<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/steam_api64.dll
 ..\WardenWise\steam_appid.txt<---|--->6ea2ef7311b482724a9b7b0bc0dd85c6<---|--->https://cz.wardenwise.com/Files/anticheat/WardenWise/steam_appid.txt
