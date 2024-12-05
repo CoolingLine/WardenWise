@@ -29,4 +29,3 @@
 ..\EasyAntiCheat\Launcher\SplashScreen.png<---|--->4f13a92933c44538dcac9a3b2a94a3fb<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/SplashScreen.png
 ..\EasyAntiCheat\Launcher\Settings64.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings64.json
 ..\EasyAntiCheat\Launcher\Settings.json<---|--->397d2cd8e103389932c4cfabfda19a8e<---|--->https://cz.wardenwise.com/Files/anticheat/EasyAntiCheat/Launcher/Settings.json
-..\RustClient_Data\Plugins\x86_64\steam_api64.dll<---|--->8dde0ad715313b41a045a04432c78d56<---|--->https://cz.wardenwise.com/Files/anticheat/RustClient_Data/Plugins/x86_64/steam_api64.dll
